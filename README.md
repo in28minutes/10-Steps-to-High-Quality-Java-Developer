@@ -9,7 +9,8 @@ You Key to Becoming a High Quality Java Developer
  - Make it small
 - Basic OOPS Principles
 - SOLID Principles
-- Design Patterns(??)
+- Design Patterns
+ - Basic Understanding
 
 ## Attitude
 - Learn every day
