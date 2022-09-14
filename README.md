@@ -1,7 +1,7 @@
 # 10-Steps-to-High-Quality-Java-Developer
 You Key to Becoming a High Quality Java Developer
 
-## Keep Learning Every Day**
+## Keep Learning Every Day
 - **1:** [FOLLOW](https://links.in28minutes.com/lin) Ranga on LinkedIn
 
 ## Check Out Our Amazing ROADMAPS
